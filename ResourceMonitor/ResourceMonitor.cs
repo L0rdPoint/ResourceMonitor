@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ResourceMonitor
 {
-    public class Class1
+    public class ResourceMonitor
     {
     }
 }
